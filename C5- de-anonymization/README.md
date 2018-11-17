@@ -10,11 +10,11 @@ As luck would have it, you have some anonymized [datasets](https://github.com/vg
 The [Login page](https://glacial-coast-79626.squarectf.com/4WzKpfyFbgdEzO3ONxDPpIXdo9Qps5) has Reset Password button, click on that \
 That will bring you to a [Reset Password](https://glacial-coast-79626.squarectf.com/4WzKpfyFbgdEzO3ONxDPpIXdo9Qps5/forgot) page
 
-![Login Page](./Images/Login.jpg)
+![Login Page](./Login.jpg)
 
 To reset the password we need to fill in all the fields below
 
-![Reset Page](./Images/Reset.jpg)
+![Reset Page](./Reset.jpg)
 
 
 The only things we know is name and title.
@@ -49,12 +49,12 @@ Captain's **First Name is Elyssa** since there is only one result in 5.csv
 
 We know Elyssa is her firtname so Yakubovics has to be her **Last Name**
 
-![Reset Fields](./Images/ResetFields.jpg)
+![Reset Fields](./ResetFields.jpg)
 
 Submitting with those values brings us to the reset password page where the first text box is populated with her current password
 
-![Success](./Images/success.jpg)
+![Success](./success.jpg)
 
 Inspecting the HTML of the first text box reveals the **flag**
 
-![Reveal](./Images/Reveal.jpg)
+![Reveal](./Reveal.jpg)
