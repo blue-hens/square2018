@@ -47,7 +47,7 @@ Since there's only one result for that street in 3.csv we can assume the Captain
 5.csv has Firstname and street \
 Captain's **First Name is Elyssa** since there is only one result in 5.csv
 
-We know Elyssa is her firtname so Yakubovics has to be her **Last Name**
+We know Elyssa is her firtname so _*Yakubovics*_ has to be her **Last Name**
 
 ![Reset Fields](./ResetFields.jpg)
 
